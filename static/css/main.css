@@ -1,0 +1,19 @@
+body{
+    text-align:center;
+    background-color: darkgrey;
+}
+p{
+    color: black;
+    font-family: Shanti;
+    font-size: 1.4em;
+    margin : 20px;
+}
+#spk{
+    background-color: palevioletred;
+    color : white;
+    width :200px;
+}
+#spk:hover{
+    background-color: mediumvioletred;
+    cursor: pointer;
+}
