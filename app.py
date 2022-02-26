@@ -27,9 +27,5 @@ def speak():
         flash("Speech Recognition canceled: {}".format(cancellation_details.reason))
         if cancellation_details.reason == speechsdk.CancellationReason.Error:
             flash("Error details: {}".format(cancellation_details.error_details))
-    #print(ptext)
+    
     return render_template("index.html")
-    #return ptext
-
-#recognize_from_microphone()
-
