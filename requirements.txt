@@ -14,7 +14,6 @@ opencv-python==4.5.3.56
 packaging==21.3
 Pillow==9.0.1
 pipwin==0.5.1
-PyAudio @ file:///C:/Users/LENOVO/pipwin/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
 pyjsparser==2.7.1
 pyparsing==3.0.7
 pypiwin32==223
